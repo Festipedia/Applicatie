@@ -15,11 +15,6 @@
         <h1>Hello World!</h1>
         <p>Dit is een leuke test</p>
         <p>Nog een test</p>
-<<<<<<< HEAD
-        master
         <p>De test branch</p>
-=======
-        master in de RubenTestBranch
->>>>>>> origin/RubenTest
     </body>
 </html>
